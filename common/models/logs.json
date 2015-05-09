@@ -1,6 +1,6 @@
 {
   "name": "Logs",
-  "plural": "logs",
+  "plural": "Logs",
   "base": "PersistedModel",
   "idInjection": true,
   "properties": {

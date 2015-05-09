@@ -1,6 +1,6 @@
 {
   "name": "Emails",
-  "plural": "emails",
+  "plural": "Emails",
   "base": "PersistedModel",
   "idInjection": true,
   "properties": {
