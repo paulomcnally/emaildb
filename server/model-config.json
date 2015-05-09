@@ -29,5 +29,9 @@
   "Emails": {
     "dataSource": "db",
     "public": true
+  },
+  "logs": {
+    "dataSource": "db",
+    "public": true
   }
 }
