@@ -30,7 +30,7 @@
     "dataSource": "db",
     "public": true
   },
-  "logs": {
+  "Logs": {
     "dataSource": "db",
     "public": true
   }
