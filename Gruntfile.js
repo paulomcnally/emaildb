@@ -9,8 +9,9 @@ module.exports = function(grunt) {
           method: 'autoupdate'
         }
       }
+    }
   });
-  // Load the plugin 
+  // Load the plugin
   grunt.loadNpmTasks('grunt-loopback-auto');
   grunt.registerTask('default', ['loopback_auto']);
 };
